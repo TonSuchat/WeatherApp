@@ -18,7 +18,7 @@
 <p>Note: Also use new features of react such as Hooks, Effects</p>
 <hr/>
 <h3>Example</h3>
-![DEMO](./images/example.png)
+<image style='width:300px;' src='./images/example.png' />
+<hr />
 <p>Credit: 
 <a href='https://blog.expo.io/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09'>Click</a>
-</p>
